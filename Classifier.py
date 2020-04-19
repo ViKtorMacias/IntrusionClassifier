@@ -22,4 +22,22 @@ def entrenar(textos):
             else:
                  c_categorias[t[1]]= c_categorias[t[1]]+1
 
-                 
+
+#añadir palabras al diccionario
+for t in textos:
+    palabras=lista_palabras(t[0])
+    for p in palabras:
+        c_tot_palabras=c_tot_palabras+1
+        c_palabras[p]={}
+        for c in c_categorias:
+            c_palabras[p][c]=0
+        c_palabras[p][t[1]]= c_palabras[p][t[1]]+1
+
+return (c_palabras,c_categorias,c_textos,c_tot_palabras)
+
+def casificar(texto,c_palabras,c_categorias,c_textos,c_tot_palabras):
+    categoria=""
+    prob_categoria=0
+    for c in c_categorias:
+        #probabilidad de la categoria
+        
