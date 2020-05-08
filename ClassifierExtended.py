@@ -54,23 +54,23 @@ c_tot_palabras):
    prob_c=float(c_categorias[c])/float(c_textos)
    print ("probabilidad de la categoria= " + str(prob_c))
    palabras=lista_palabras(texto)
-   # print ("palabras= " + str(palabras))
+   #print ("palabras= " + str(palabras))
    prob_total_c=prob_c
    for p in palabras:
-     print ("palabra:" + str(p))
+     #print ("palabra:" + str(p))
      # probabilidad de la palabra
      if p in c_palabras:
        prob_p=float(c_palabras[p][c])/float(c_tot_palabras)
        #print ("p: " + str(p))
        #print ("c_palabras[p][c]: " + str(c_palabras[p][c]))
        #print ("c_tot_palabras: " + str(c_tot_palabras))
-       print ("probabilidad p(palabra|categoria): " + str(prob_p))
+       # print ("probabilidad p(palabra|categoria): " + str(prob_p))
        # probabilidad p(categoria|palabra)
        prob_cond=prob_p/prob_c
-       print ("probabilidad p(categoria|palabra): " + str(prob_cond))
+       # print ("probabilidad p(categoria|palabra): " + str(prob_cond))
        # probabilidad p(palabra|categoria)
        prob=(prob_cond*prob_p)/prob_c
-       print ("probabilidad p(palabra|categoria): " + str(prob))
+       # print ("probabilidad p(palabra|categoria): " + str(prob))
        prob_total_c=prob_total_c*prob
        print ("prob_total_c: " + str(prob_total_c))
 
@@ -105,5 +105,5 @@ p,c,t,tp = entrenar(texto) #c_palabras,c_categorias,c_textos,c_tot_palabras
 print ("c_categorias=  " + str(c))
 print ("c_textos=  " + str(t))
 print ("c_tot_palabras=  " + str(tp))
-clase=clasificar("sel ect online de select * from users  servicios en 24 horas",p,c,t,tp)
+clase=clasificar("GET http://testphp.vulnweb.com/artists.php?artist=1 HTTP/1.1 Host: testphp.vulnweb.com",p,c,t,tp)
 print ("texto clasificado: " + str(clase))

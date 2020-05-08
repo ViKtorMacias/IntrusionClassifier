@@ -66,13 +66,19 @@ c_tot_palabras):
 
 if __name__ == "__main__":
  textos=[
-   ["viadra a buen precio","spam"],
-   ["quedamos manana lunues ir a cine","nospam"],
-   ["replicas de relojes y viagra a presions de riza","spam"],
-   ["disponga de sus productos farmaceuticos en 24 horas","spam"],
-   ["La inteligencia artificial es una disciplina muy interesante","nospam"]
+   ["GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com","Sqlinjection"],
+   ["GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com","Sqlinjection"],
+   ["GET http://testphp.vulnweb.com/artists.php?artist=1 HTTP/1.1 Host: testphp.vulnweb.com","NOTSqlinjection"],
+   ["GET testphp.vulnweb.com","NOTSqlinjection"],
+   ["POST testphp.vulnweb.com","NOTSqlinjection"],
+   ["HTTP/1.1 Host: testphp.vulnweb.com","NOTSqlinjection"],
+   ["GET http://testphp.vulnweb.com/artists.php","NOTSqlinjection"],
+    ["GET http://testphp.vulnweb.com/artists.php?artist=1 HTTP/1.1 Host:","NOTSqlinjection"]
   ]
 
  p,c,t,tp = entrenar(textos)
- clase=clasificar("pedidos online de viagra servicios en 24 horas",p,c,t,tp)
+ print ("c_categorias=  " + str(c))
+ print ("c_textos=  " + str(t))
+ print ("c_tot_palabras=  " + str(tp))
+ clase=clasificar("GET http://testphp.vulnweb.com/artists.php?artist=1 HTTP/1.1 Host: testphp.vulnweb.com",p,c,t,tp)
  print ("texto clasificado: " + str(clase))
