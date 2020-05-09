@@ -76,9 +76,9 @@ c_tot_palabras):
 
    if prob_categoria <prob_total_c:
      categoria=c
-     print ("categoria: " + str(categoria))
+     #print ("categoria: " + str(categoria))
      prob_categoria=prob_total_c
-     print ("prob_categoria: " + str(prob_categoria))
+     #print ("prob_categoria: " + str(prob_categoria))
   return (categoria,prob_categoria)
 
 def loadfile():
@@ -98,10 +98,10 @@ def loadfile():
 
 if __name__ == "__main__":
   texto=loadfile()
-   
-
-p,c,t,tp = entrenar(texto) #c_palabras,c_categorias,c_textos,c_tot_palabras
+   #c_palabras,c_categorias,c_textos,c_tot_palabras
 #print ("c_palabras= " + str(p))
+
+p,c,t,tp = entrenar(texto) 
 print ("c_categorias=  " + str(c))
 print ("c_textos=  " + str(t))
 print ("c_tot_palabras=  " + str(tp))
