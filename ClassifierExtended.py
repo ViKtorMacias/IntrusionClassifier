@@ -6,10 +6,11 @@ def lista_palabras(texto):
     #print ("palabras_tmp= " + str(palabras_tmp))
     for p in palabras_tmp:
         #print ("p= " + str(p))
-        if p not in palabras:
+        if p not in palabras and len(p)>2:
             palabras.append(p)
             #print ("palabras= " + str(palabras))
-            return palabras
+            
+    return palabras
 
 def entrenar(textos):
   c_palabras={}
@@ -52,7 +53,7 @@ c_tot_palabras):
   for c in c_categorias:
    #probabilidad de la categoria
    prob_c=float(c_categorias[c])/float(c_textos)
-   print ("probabilidad de la categoria= " + str(prob_c))
+   #print ("probabilidad de la categoria= " + str(prob_c))
    palabras=lista_palabras(texto)
    #print ("palabras= " + str(palabras))
    prob_total_c=prob_c
@@ -72,14 +73,14 @@ c_tot_palabras):
        prob=(prob_cond*prob_p)/prob_c
        # print ("probabilidad p(palabra|categoria): " + str(prob))
        prob_total_c=prob_total_c*prob
-       print ("prob_total_c: " + str(prob_total_c))
+       #print ("prob_total_c: " + str(prob_total_c))
 
    if prob_categoria <prob_total_c:
      categoria=c
      #print ("categoria: " + str(categoria))
      prob_categoria=prob_total_c
      #print ("prob_categoria: " + str(prob_categoria))
-  return (categoria,prob_categoria)
+  return (categoria,1-prob_categoria)
 
 def loadfile():
   textos=[]
@@ -105,5 +106,5 @@ p,c,t,tp = entrenar(texto)
 print ("c_categorias=  " + str(c))
 print ("c_textos=  " + str(t))
 print ("c_tot_palabras=  " + str(tp))
-clase=clasificar("GET http://testphp.vulnweb.com/artists.php?artist=1 HTTP/1.1 Host: testphp.vulnweb.com",p,c,t,tp)
+clase=clasificar("GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com",p,c,t,tp)
 print ("texto clasificado: " + str(clase))
