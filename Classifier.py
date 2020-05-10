@@ -3,12 +3,15 @@
 def lista_palabras(texto):
     palabras=[]
     palabras_tmp=texto.lower().split()
-
+    #print ("palabras_tmp= " + str(palabras_tmp))
     for p in palabras_tmp:
-        if p not in palabras and len(p)>2:
+        #print ("p= " + str(p))
+        if p not in palabras:
             palabras.append(p)
+            #print ("palabras= " + str(palabras))
+            
+    return palabras
 
-            return palabras
 
 def entrenar(textos):
   c_palabras={}
@@ -77,6 +80,7 @@ if __name__ == "__main__":
   ]
 
  p,c,t,tp = entrenar(textos)
+ print ("c_palabras= " + str(p))
  print ("c_categorias=  " + str(c))
  print ("c_textos=  " + str(t))
  print ("c_tot_palabras=  " + str(tp))
