@@ -1,0 +1,5 @@
+https://www.digitalocean.com/community/tutorials/como-instalar-el-servidor-web-apache-en-ubuntu-18-04-guia-de-inicio-rapido-es
+https://github.com/payloadbox
+https://owasp.org/www-community/xss-filter-evasion-cheatsheet
+https://github.com/SpiderLabs/ModSecurity/wiki/Reference-Manual-%28v2.x%29#ModSecurityreg_Reference_Manual
+
