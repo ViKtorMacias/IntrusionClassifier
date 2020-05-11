@@ -1,0 +1,19 @@
+apt-get install apache2
+apt-get install mysql-server
+systemctl start apache2 
+systemctl enable apache2
+apt-get install libapache2-mod-security2
+
+
+mv /etc/modsecurity/modsecurity.conf-recommended  modsecurity.conf
+sudo apt install git
+git clone https://github.com/SpiderLabs/owasp-modsecurity-crs.git
+
+
+cd owasp-modsecurity-crs
+mv crs-setup.conf.example /etc/modsecurity/crs-setup.conf
+mv rules/ /etc/modsecurity/
+
+https://www.linode.com/docs/web-servers/apache-tips-and-tricks/configure-modsecurity-on-apache/
+systemctl restart apache2 
+systemctl enable apache2
